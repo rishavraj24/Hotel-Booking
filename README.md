@@ -1,4 +1,4 @@
-# Wanderlust-by-Apna-College
+# Hotel Booking Website
 
 
 first type in terminal this command
